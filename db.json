@@ -1,0 +1,21 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "React para Iniciantes",
+        "category": "Frontend",
+        "image": "path-to-thumbnail/react.jpg",
+        "description": "Aprenda o básico de React.",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "id": 2,
+        "title": "CSS Avançado",
+        "category": "Frontend",
+        "image": "path-to-thumbnail/css.jpg",
+        "description": "Domine as técnicas avançadas de CSS.",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ]
+  }
+  
